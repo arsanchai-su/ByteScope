@@ -1,0 +1,8 @@
+timm>=1.0.9
+numpy
+pillow
+scikit-learn
+scipy
+pandas
+imagehash
+thop
